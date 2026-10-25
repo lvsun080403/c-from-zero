@@ -1,0 +1,6 @@
+# 统一按 LF 存库，仅 .bat 用 CRLF（cmd 对 CRLF 更友好）
+* text=auto eol=lf
+*.bat text eol=crlf
+*.c text eol=lf
+*.h text eol=lf
+*.md text eol=lf

@@ -1,0 +1,21 @@
+# 编译产物
+build/
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.pch
+*.ncb
+*.opt
+*.plg
+*.dsp
+*.dsw
+Debug/
+Release/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
